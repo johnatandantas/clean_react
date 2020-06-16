@@ -1,0 +1,18 @@
+{
+  "name": "clean_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "git-commit-msg-linter": "^2.4.3",
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Johnatan Dantas <dantas.johnatan@gmail.com>",
+  "license": "MIT"
+}
